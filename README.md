@@ -6,7 +6,7 @@ I'm a software engineer with over a decade of experience building mobile applica
 
 - **Mobile**: Swift, SwiftUI, UIKit
 - **Web, Cross-Platform**: React, React Native, TypeScript
-- **Tools & Infra**: AWS (certified), Firebase, REST APIs, CI/CD pipelines
+- **Misc**: Combine, Swift Concurrency, Expo, unit test, UI test, mobile app architecture, redux, Core Data, Node.js, AWS
 
 ## 🧱 Currently Working On
 
